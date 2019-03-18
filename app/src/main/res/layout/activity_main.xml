@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/context_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <com.junipersys.a3_chambertest.InterceptTouchFrameLayout
+        android:id="@+id/touch_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></com.junipersys.a3_chambertest.InterceptTouchFrameLayout>
+
+</android.support.design.widget.CoordinatorLayout>

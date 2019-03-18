@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">A3_ChamberTest</string>
+    <string name="touch_logged">Touch Detected</string>
+    <string name="goToLogFile">\"SHOW ME\"</string>
+</resources>
